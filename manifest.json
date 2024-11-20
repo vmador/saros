@@ -1,0 +1,26 @@
+{
+    "name": "saros PWA",
+    "short_name": "saros",
+    "description": "saros Progressive Web App",
+    "start_url": "/saros/",
+    "scope": "/saros/",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "/saros/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/saros/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "orientation": "portrait",
+    "prefer_related_applications": false
+}
